@@ -1,2 +1,3 @@
 # Demo
-First
+First Git Repository
+Author - Amkita
